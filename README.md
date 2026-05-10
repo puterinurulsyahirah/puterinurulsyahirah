@@ -58,7 +58,7 @@
 <p>> Built analytical data visualizations using Google Charts API including bar, pie, and column chart representations.</p>
 <p>> Integrated real-time timetable data retrieval through AJAX and JSON web services.</p>
 <p>> Implemented visualization modules supporting timetable conflict and room usage analysis.</p>
-<img align="left" height="200" width="350" src="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/Chart.png"/><img height="200" src="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/Table.png"/>
+<img align="left" height="200" src="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/Room%20Chart.png"/><img height="200" src="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/Table.png"/>
 
 <h3>Image Processing Application | Python | Team Leader | Dec 2025 – Jan 2026</h3>
 <p>> Developed image processing tool supporting editing and enhancement operations.</p>
