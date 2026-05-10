@@ -23,7 +23,69 @@
 </div>
 
 # <img height="50" src="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/Gear.gif"/> Projects :
+<h3>Gesture & Speech Interaction System | Unity, Leap Motion | Team Leader | May 2026</h3>
+<p>> Developed gesture-based interaction system using Leap Motion Controller for intuitive hand-tracking interaction.</p>
+<p>> Implemented hover menu UI triggered by hand orientation and portal navigation via pinch gesture recognition.</p>
+<p>> Built interactive low-gravity physics simulation affecting the player and interactable objects.</p>
+<img align="left" height="200" src="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/Menu.png"/><img height="200" src="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/Portal.png"/>
 
+<h3>Interactive VR with XRI Handposes | Unity, XR Interaction Toolkit | Team Leader | Apr 2026</h3>
+<p>> Developed immersive VR environment using XR Interaction Toolkit with custom hand-pose interactions.</p>
+<p>> Implemented grab, pinch, and point-based interactions for object manipulation and UI triggering.</p>
+<p>> Integrated gesture-triggered object spawning mechanics within the VR environment.</p>
+<img align="left" height="200" src="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/Point-Base%20Interaction.png"/><img height="200" src="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/Interactable%20Object.png"/>
+
+<h3>Interactive AR Magic Cube | Unity, Vuforia | Apr 2026</h3>
+<p>> Developed AR application using multi-marker tracking (6 markers) mapped to cube faces.</p>
+<p>> Implemented cross-marker interaction logic to enable dynamic behavior between cube sides.</p>
+<img align="left" height="200" src="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/Grandma%20and%20Goblin.png"/><img height="200" src="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/Grandma%20and%20Zombie.png"/>
+
+<h3>Interactive AR Character | MagicaVoxel, Mixamo, MyWebAR | Apr 2026</h3>
+<p>> Created 3D voxel character using MagicaVoxel and integrated animations via Mixamo.</p>
+<p>> Deployed AR experience using MyWebAR, accessible via real-world tracking and QR codes.</p>
+<img align="left" height="200" src="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/Character.png"/><img height="200" src="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/AR%20Character.png"/>
+
+<h3>AI-Powered XR Health Platform | Unity, Convai AI, OCR | Team | Mar 2026</h3>
+<p>> Contributed to XR-based health platform integrating AI insights with immersive VR/MR experiences.</p>
+<p>> Developed web interface and integrated user data retrieval in Unity using deep linking and POST methods.</p>
+<p>> Implemented adaptive gameplay conditions that adjusted fitness activities based on user health data inputs.</p>
+<p>> Built functional application within 1 week and presented at MyVerse 2026 competition.</p>
+<p>> Awarded a gold medal at I3DC 2026 competition.</p>
+<img align="left" height="200" src="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/XRctive%20Web.png"/><img height="200" src="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/XRctive%20Exercise.png"/>
+
+<h3>Web-Based Visualization Support System | AJAX/JSON, Google Charts API | Team Leader | Oct 2025 – Jan 2026</h3>
+<p>> Developed interactive web-based system for academic timetable visualization and analysis.</p>
+<p>> Built analytical data visualizations using Google Charts API including bar, pie, and column chart representations.</p>
+<p>> Integrated real-time timetable data retrieval through AJAX and JSON web services.</p>
+<p>> Implemented visualization modules supporting timetable conflict and room usage analysis.</p>
+<img align="left" height="200" src="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/Chart.png"/><img height="200" src="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/Table.png"/>
+
+<h3>Image Processing Application | Python | Team Leader | Dec 2025 – Jan 2026</h3>
+<p>> Developed image processing tool supporting editing and enhancement operations.</p>
+<p>> Implemented features including cropping, flipping, resizing, sharpening, and brightness adjustment.</p>
+<p>> Built undo/redo functionality to improve usability.</p>
+<img align="left" height="200" src="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/PicTwist.png"/> <img height="200" src="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/PicTwist%201.png"/>
+
+<h3>Smart Education Printing Application | Figma (Interactive Prototype) | Team Leader | Oct 2025 – Dec 2025</h3>
+<p>> Designed workflow for AI design and print assistant with mobile-to-kiosk printing experience.</p>
+<p>> Awarded a gold medal at i-Gen 2026 competition.</p>
+<img align="left" height="200" src="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/Kiosk.png"/><img height="200" src="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/AI%20Assitant.png"/>
+
+<h3>Lost & Found Website | HTML, CSS, JS, MySQL, Google Maps | Team Leader | Jul 2025</h3>
+<p>> Contributed to full-stack web application development for managing lost and found items.</p>
+<p>> Implemented authentication system (login, registration, password reset via email.</p>
+<p>> Integrated Google Maps API for location-based item tracking.</p>
+<img align="left" height="200" src="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/Sign%20In.png"/><img height="200" src="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/Post.png"/>
+
+<h3>3D Animated Character | OpenGL | May 2025 – Jun 2025</h3>
+<p>> Developed interactive 3D Pokémon-style character using OpenGL.</p>
+<p>> Designed character components and implemented keyboard-based animation controls.</p>
+<img align="left" height="200" src=""/><img height="200" src=""/>
+
+<h3>Smart Hydration Application | Figma (Interactive Prototype) | Team | Nov 2024 – Jan 2025</h3>
+<p>> Assisted in designing user interface and hydration tracking workflow for smart hydration mobile application.</p>
+<p>> Awarded a gold medal at Innovex 2026 competition.</p>
+<img align="left" height="200" src=""/><img height="200" src=""/>
 
 # <img height="50" src="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/Books.gif"/> Education :
 <h3>Bachelor of Computer Science ( Graphics & Multimedia Software ) With Honours | Oct 2023 -Present</h3>
