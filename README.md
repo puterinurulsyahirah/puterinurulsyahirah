@@ -80,12 +80,12 @@
 <h3>3D Animated Character | OpenGL | May 2025 – Jun 2025</h3>
 <p>> Developed interactive 3D Pokémon-style character using OpenGL.</p>
 <p>> Designed character components and implemented keyboard-based animation controls.</p>
-<img align="left" height="200" src=""/><img height="200" src=""/>
+<img align="left" height="200" src="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/Main.png"/><img height="200" src="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/Side.png"/>
 
 <h3>Smart Hydration Application | Figma (Interactive Prototype) | Team | Nov 2024 – Jan 2025</h3>
 <p>> Assisted in designing user interface and hydration tracking workflow for smart hydration mobile application.</p>
 <p>> Awarded a gold medal at Innovex 2026 competition.</p>
-<img align="left" height="200" src=""/><img height="200" src=""/>
+<img align="left" height="200" src="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/Water.png"/><img height="200" src="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/Calorie.png"/>
 
 # <img height="50" src="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/Books.gif"/> Education :
 <h3>Bachelor of Computer Science ( Graphics & Multimedia Software ) With Honours | Oct 2023 -Present</h3>
